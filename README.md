@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello, my name is Aaliyah English, and I am a senior majoring in Computer Science with a minor in Cybersecurity!
